@@ -70,10 +70,4 @@ This project explores how AI can assist in:
 - Research prioritization  
 - Knowledge workflow automation  
 
----
 
-## ⚙️ Setup
-
-### Install dependencies
-```bash
-pip install -r requirements.txt
