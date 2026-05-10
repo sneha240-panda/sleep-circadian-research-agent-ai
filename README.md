@@ -70,4 +70,14 @@ This project explores how AI can assist in:
 - Research prioritization  
 - Knowledge workflow automation  
 
+## 🚀 Running after forking
 
+After forking this repo, follow these steps:
+
+1. Clone your fork
+2. Create virtual environment
+3. Install dependencies
+4. Add `.env` file with your API key
+5. Run `python agent.py`
+
+The agent will automatically generate a sleep and circadian rhythm research briefing from PubMed.
